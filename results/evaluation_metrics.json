@@ -1,0 +1,6 @@
+{
+    "model": "BERT fine-tuned on 5000 SQuAD training examples",
+    "evaluation_examples": 200,
+    "exact_match_percent": 60.5,
+    "token_f1_percent": 67.74
+}

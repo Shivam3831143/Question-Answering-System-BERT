@@ -1,0 +1,16 @@
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.env
+
+# Large dataset files
+dataset/
+
+# Trained model weights
+models/bert_qa/*.safetensors
+
+# Keep model configuration and tokenizer files
